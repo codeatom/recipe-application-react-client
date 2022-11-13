@@ -1,0 +1,19 @@
+.boldFont {
+    font-weight: bold;
+}
+
+.searchInputWidth{
+    width: 150px;
+}
+
+.card-width{
+    width: 700px;
+}
+
+.card-width-500{
+    width: 500px;
+}
+
+.center-text {
+    text-align: center;
+  }
